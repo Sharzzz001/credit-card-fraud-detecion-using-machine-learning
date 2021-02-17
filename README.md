@@ -1,6 +1,7 @@
 # credit-card-fraud-detecion-using-machine-learning
 
-Hey its yo boi sharzzz, droppin off my first project on git
+Dataset
+The dataset of of nearly 28,500 credit card transactions was used to identify transactions with a high probability of being credit card fraud. The dataset can be downloaded from kaggle
 
 This project uses various ML algorithms to detect credit card fraud detection.
 
